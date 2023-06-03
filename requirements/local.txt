@@ -1,0 +1,7 @@
+-r base.txt
+
+pre-commit==2.20.0
+black
+flake8==5.0.4
+isort==5.10.1
+commitizen==2.29.5
